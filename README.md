@@ -2,5 +2,12 @@
 
 - ESTOU NA MAIN 
 - Fiz uma alteração no remoto
-
+<<<<<<< HEAD
 - Fazendo uma alteração pela branch "desafioAula"
+=======
+
+
+
+
+- Fazendo uma alteração pelo branch fix
+>>>>>>> fix/modificacao
