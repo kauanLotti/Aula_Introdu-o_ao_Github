@@ -2,3 +2,4 @@
 
 - ESTOU NA MAIN 
 - Fiz uma alteração no remoto
+- Fazendo uma alteração pelo branch fix
